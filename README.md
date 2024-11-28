@@ -1,5 +1,5 @@
 # nilion-node
-1. Chuẩn bị
+A. Chuẩn bị
   testnet nillion thì cần chuẩn bị 1 ví Keplr, 
    
   truy cập https://chains.keplr.app tìm Nillion và add network vào ví Keplr.
@@ -13,7 +13,7 @@
   Vào testnet.ping.pub/nillion 
   thực hiện  “Delegate” ở mục Staking và “Voting” ở mục Governance.
 
-2. chạy node:
+B. chạy node:
 1. Update: 
 
 sudo apt-get update && sudo apt-get upgrade -y
